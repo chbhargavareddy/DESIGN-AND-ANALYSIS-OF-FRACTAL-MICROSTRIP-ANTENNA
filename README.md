@@ -1,1 +1,6 @@
 # DESIGN-AND-ANALYSIS-OF-FRACTAL-MICROSTRIP-ANTENNA
+
+Antenna is a transducer designed to transmit or receive electromagnetic waves. Microstrip antenna usually means an antenna fabricated using microstrip techniques on a printed circuit board (PCB). It consists of a conducting patch of any planar or non planar geometry on one side of a dielectric substrate with a ground plane on other side. It is a popular printed resonant antenna for narrow-band microwave wireless links that require semi-hemispherical coverage. Due to its planar configuration and ease of integration with microstrip technology, the microstrip patch antenna has been heavily studied and often used as elements for an array.
+For the same patch antenna a new geometry of a rectangular microstrip patch antenna that improves the performance of a conventional microstrip patch antenna. This antenna is designed to operate at 5.38 GHz with enhanced bandwidth of 11.15%. For the desired result, a triangular notch is inserted into the patch antenna. The proposed geometry provides improvement in other radiation parameters like gain, efficiency and impedance behavior, when it is compared with conventional antenna.
+Software Requirements:
+ANSYS HFSS (High Frequency Structure Simulator).
